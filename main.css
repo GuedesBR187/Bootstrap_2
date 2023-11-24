@@ -1,0 +1,13 @@
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+.carousel-item{
+    max-height: 50vw ;
+}
+
+.card-img-top{
+    height: 60vh;
+    max-width: 100%;
+}
